@@ -1,0 +1,9 @@
+
+C:\Users\owner\Desktop>java MyTemp
+1
+the area of the circle is 3.141592653589793
+
+2
+the area of the circle is 12.566370614359172
+
+^d

@@ -1,0 +1,64 @@
+C:\Users\owner\Desktop>java MyTemp
+input the center coordinate for circle A
+0
+0
+input the radius for circle A
+1
+input the center coordinate for circle B
+0
+2
+input the radius for circle B
+1
+they are touching each other
+
+C:\Users\owner\Desktop>java MyTemp
+input the center coordinate for circle A
+-1
+-1
+input the radius for circle A
+1
+input the center coordinate for circle B
+1
+1
+input the radius for circle B
+1
+they are separated from each other
+
+C:\Users\owner\Desktop>java MyTemp
+input the center coordinate for circle A
+-1
+-1
+input the radius for circle A
+2
+input the center coordinate for circle B
+1
+1
+input the radius for circle B
+2
+they are overlapping each other
+
+C:\Users\owner\Desktop>java MyTemp
+input the center coordinate for circle A
+0
+0
+input the radius for circle A
+6
+input the center coordinate for circle B
+1
+0
+input the radius for circle B
+1
+B is completely within A
+
+C:\Users\owner\Desktop>java MyTemp
+input the center coordinate for circle A
+0
+2
+input the radius for circle A
+2
+input the center coordinate for circle B
+0
+1
+input the radius for circle B
+7
+A is completely within B

@@ -1,0 +1,10 @@
+C:\Users\owner\Desktop>javac MyTemp.java
+
+C:\Users\owner\Desktop>java MyTemp < Q4numfile.txt
+2
+323
+21
+233
+11
+123
+33
