@@ -1,0 +1,17 @@
+C:\Users\owner\Desktop>java MyTemp
+April
+
+C:\Users\owner\Desktop>java MyTemp
+December
+
+C:\Users\owner\Desktop>java MyTemp
+September
+
+C:\Users\owner\Desktop>java MyTemp
+June
+
+C:\Users\owner\Desktop>java MyTemp
+November
+
+C:\Users\owner\Desktop>java MyTemp
+December
