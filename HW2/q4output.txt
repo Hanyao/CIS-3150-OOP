@@ -1,0 +1,30 @@
+C:\Users\Hanyao\Desktop>java MyTemp
+John wakes up
+He starts to search for food
+press "enter" to search
+
+He found a T-shirt
+He doesn't want to eat this
+
+press "enter" to search
+
+He found three dollar bills
+He doesn't want to eat this
+
+press "enter" to search
+
+He found a pen
+He doesn't want to eat this
+
+press "enter" to search
+
+He found a soap
+He doesn't want to eat this
+
+press "enter" to search
+
+He found a bag of chips
+He found food!
+
+The End
+

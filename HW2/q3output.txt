@@ -1,0 +1,14 @@
+C:\Users\Hanyao\Desktop>java MyTemp
+enter a string
+area
+it's not a palindrome
+
+C:\Users\Hanyao\Desktop>java MyTemp
+enter a string
+aiia
+it's a palindrome
+
+C:\Users\Hanyao\Desktop>java MyTemp
+enter a string
+aieia
+it's a palindrome
