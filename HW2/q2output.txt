@@ -1,0 +1,231 @@
+C:\Users\Hanyao\Desktop>java MyTemp
+enter a year
+1
+
+enter the day(0-6) the first of January fell on.
+0 is Sunday and 1 is Monday
+2
+     January    1
+ Su Mo Tu We Th Fr Sa
+        1  2  3  4  5
+  6  7  8  9 10 11 12
+ 13 14 15 16 17 18 19
+ 20 21 22 23 24 25 26
+ 27 28 29 30 31
+
+
+    February    1
+ Su Mo Tu We Th Fr Sa
+                 1  2
+  3  4  5  6  7  8  9
+ 10 11 12 13 14 15 16
+ 17 18 19 20 21 22 23
+ 24 25 26 27 28
+
+       March    1
+ Su Mo Tu We Th Fr Sa
+                 1  2
+  3  4  5  6  7  8  9
+ 10 11 12 13 14 15 16
+ 17 18 19 20 21 22 23
+ 24 25 26 27 28 29 30
+ 31
+
+       April    1
+ Su Mo Tu We Th Fr Sa
+     1  2  3  4  5  6
+  7  8  9 10 11 12 13
+ 14 15 16 17 18 19 20
+ 21 22 23 24 25 26 27
+ 28 29 30
+
+
+         May    1
+ Su Mo Tu We Th Fr Sa
+           1  2  3  4
+  5  6  7  8  9 10 11
+ 12 13 14 15 16 17 18
+ 19 20 21 22 23 24 25
+ 26 27 28 29 30 31
+
+
+        June    1
+ Su Mo Tu We Th Fr Sa
+                    1
+  2  3  4  5  6  7  8
+  9 10 11 12 13 14 15
+ 16 17 18 19 20 21 22
+ 23 24 25 26 27 28 29
+ 30
+
+        July    1
+ Su Mo Tu We Th Fr Sa
+     1  2  3  4  5  6
+  7  8  9 10 11 12 13
+ 14 15 16 17 18 19 20
+ 21 22 23 24 25 26 27
+ 28 29 30 31
+
+
+      August    1
+ Su Mo Tu We Th Fr Sa
+              1  2  3
+  4  5  6  7  8  9 10
+ 11 12 13 14 15 16 17
+ 18 19 20 21 22 23 24
+ 25 26 27 28 29 30 31
+
+
+   September    1
+ Su Mo Tu We Th Fr Sa
+  1  2  3  4  5  6  7
+  8  9 10 11 12 13 14
+ 15 16 17 18 19 20 21
+ 22 23 24 25 26 27 28
+ 29 30
+
+
+     October    1
+ Su Mo Tu We Th Fr Sa
+        1  2  3  4  5
+  6  7  8  9 10 11 12
+ 13 14 15 16 17 18 19
+ 20 21 22 23 24 25 26
+ 27 28 29 30 31
+
+
+    November    1
+ Su Mo Tu We Th Fr Sa
+                 1  2
+  3  4  5  6  7  8  9
+ 10 11 12 13 14 15 16
+ 17 18 19 20 21 22 23
+ 24 25 26 27 28 29 30
+
+
+    December    1
+ Su Mo Tu We Th Fr Sa
+  1  2  3  4  5  6  7
+  8  9 10 11 12 13 14
+ 15 16 17 18 19 20 21
+ 22 23 24 25 26 27 28
+ 29 30 31
+
+
+
+C:\Users\Hanyao\Desktop>javac MyTemp.java
+
+C:\Users\Hanyao\Desktop>java MyTemp
+enter a year
+2000
+
+enter the day(0-6) the first of January fell on.
+0 is Sunday and 1 is Monday
+3
+     January 2000
+ Su Mo Tu We Th Fr Sa
+           1  2  3  4
+  5  6  7  8  9 10 11
+ 12 13 14 15 16 17 18
+ 19 20 21 22 23 24 25
+ 26 27 28 29 30 31
+
+
+    February 2000
+ Su Mo Tu We Th Fr Sa
+                    1
+  2  3  4  5  6  7  8
+  9 10 11 12 13 14 15
+ 16 17 18 19 20 21 22
+ 23 24 25 26 27 28 29
+
+       March 2000
+ Su Mo Tu We Th Fr Sa
+  1  2  3  4  5  6  7
+  8  9 10 11 12 13 14
+ 15 16 17 18 19 20 21
+ 22 23 24 25 26 27 28
+ 29 30 31
+
+
+       April 2000
+ Su Mo Tu We Th Fr Sa
+           1  2  3  4
+  5  6  7  8  9 10 11
+ 12 13 14 15 16 17 18
+ 19 20 21 22 23 24 25
+ 26 27 28 29 30
+
+
+         May 2000
+ Su Mo Tu We Th Fr Sa
+                 1  2
+  3  4  5  6  7  8  9
+ 10 11 12 13 14 15 16
+ 17 18 19 20 21 22 23
+ 24 25 26 27 28 29 30
+ 31
+
+        June 2000
+ Su Mo Tu We Th Fr Sa
+     1  2  3  4  5  6
+  7  8  9 10 11 12 13
+ 14 15 16 17 18 19 20
+ 21 22 23 24 25 26 27
+ 28 29 30
+
+
+        July 2000
+ Su Mo Tu We Th Fr Sa
+           1  2  3  4
+  5  6  7  8  9 10 11
+ 12 13 14 15 16 17 18
+ 19 20 21 22 23 24 25
+ 26 27 28 29 30 31
+
+
+      August 2000
+ Su Mo Tu We Th Fr Sa
+                    1
+  2  3  4  5  6  7  8
+  9 10 11 12 13 14 15
+ 16 17 18 19 20 21 22
+ 23 24 25 26 27 28 29
+ 30 31
+
+   September 2000
+ Su Mo Tu We Th Fr Sa
+        1  2  3  4  5
+  6  7  8  9 10 11 12
+ 13 14 15 16 17 18 19
+ 20 21 22 23 24 25 26
+ 27 28 29 30
+
+
+     October 2000
+ Su Mo Tu We Th Fr Sa
+              1  2  3
+  4  5  6  7  8  9 10
+ 11 12 13 14 15 16 17
+ 18 19 20 21 22 23 24
+ 25 26 27 28 29 30 31
+
+
+    November 2000
+ Su Mo Tu We Th Fr Sa
+  1  2  3  4  5  6  7
+  8  9 10 11 12 13 14
+ 15 16 17 18 19 20 21
+ 22 23 24 25 26 27 28
+ 29 30
+
+
+    December 2000
+ Su Mo Tu We Th Fr Sa
+        1  2  3  4  5
+  6  7  8  9 10 11 12
+ 13 14 15 16 17 18 19
+ 20 21 22 23 24 25 26
+ 27 28 29 30 31
+
+
