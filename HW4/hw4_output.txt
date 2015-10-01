@@ -1,0 +1,21 @@
+C:\Users\Hanyao\Desktop>javac MyString.java
+
+C:\Users\Hanyao\Desktop>java MyString
+char at index 5 is: B
+substring from index 2 to index 7 is: y, Br
+take a look at it in lower case: hey, bro
+take a look at it in upper case: HEY, BRO
+print 1st MyString: Hey, Bro
+print 2nd MyString:
+print 1st MyString in String Hey, Bro
+are they equal? false
+Now, are they equal? true
+key in an integer
+234
+34, 2
+4, 3
+0, 4
+the value of integer appeared as a MyString object is: 234
+
+//helpful one:
+http://www.answers.com/Q/How_do_you_convert_an_int_to_char_in_java
