@@ -1,0 +1,14 @@
+C:\Users\Hanyao\Desktop>javac MyTemp.java
+
+C:\Users\Hanyao\Desktop>java MyTemp
+area of the square is 100000000
+area of the quarter circle is 7.853981633974484E7
+The ratio is 0.7853981633974484
+q1
+q2
+q3
+count is 3.14162338E9
+N is 4.0E9
+ratio is 0.785405845
+
+C:\Users\Hanyao\Desktop>

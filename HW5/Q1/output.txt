@@ -1,0 +1,10 @@
+C:\Users\Hanyao\Desktop>javac EleDevice\EleDevice.java PC\PC.java MyTemp.java
+
+C:\Users\Hanyao\Desktop>javac MyTemp
+error: Class names, 'MyTemp', are only accepted if annotation processing is explicitly requested
+1 error
+
+C:\Users\Hanyao\Desktop>java MyTemp
+voltage of this pc is 10
+
+C:\Users\Hanyao\Desktop>
