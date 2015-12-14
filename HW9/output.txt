@@ -1,0 +1,9 @@
+C:\Users\Hanyao\Desktop>javac Bur.java
+
+C:\Users\Hanyao\Desktop>java Bur
+Henry
+1994
+Bin
+1994
+
+C:\Users\Hanyao\Desktop>
