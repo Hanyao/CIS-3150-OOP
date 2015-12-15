@@ -1,0 +1,11 @@
+C:\Users\Hanyao\Desktop>java Bur
+notepad&
+notepad
+SHELL: pause until the subprocess terminates.
+kimoji& > output.txt
+SHELL: redirecting the output of the subprocess to 'output.txt'
+kimoji > output.txt
+SHELL: redirecting the output of the subprocess to 'output.txt'
+SHELL: pause until the subprocess terminates.
+Exception in thread "main"
+C:\Users\Hanyao\Desktop>
